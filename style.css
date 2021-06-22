@@ -73,16 +73,17 @@ h1 {
 .error {
   width: 170px;
   height: 20px;
-  padding: 10px;
+  padding: 5px;
   border: 2px solid red;
   display: none;
   position: absolute;
-  top: calc(50% - 40px / 2);
-  left: calc(50% - 190px / 2);
+  top: calc(50% - 34px / 2);
+  left: calc(50% - 184px / 2);
   text-align: center;
   color: #fff;
-  font-weight: bold;
+  font-weight: 700;
   background: red;
+  font-size: 15px;
 }
 .active {
   display: block;
